@@ -1,8 +1,13 @@
 ![image](https://user-images.githubusercontent.com/115022601/207311721-0e2d5e57-8e21-4092-923d-d0f4877dee8b.png)
 
 ## About me
-I'm Guillem, Ruby on rails Back-End engineer and Life Sciences expert!
-Recently finished a 9-week full-time intensive Full-Stack Web Development bootcamp at Le Wagon, learning Ruby on Rails, HTML, CSS, Bootstrap, JavaScript ES6, SQL, Git, GitHub, Heroku and many more.
+I'm Guillem, Ruby on Rails Back-End Engineer and Life Sciences Expert!  
+
+Recently finished a 9-week full-time Full-Stack Web Development bootcamp at Le Wagon, learning Ruby on Rails, HTML, CSS, JavaScript ES6, SQL, GitHub, and many more.  
+
+Formerly I worked as ETL Specialist within the Web Data Acqusition team at Clarivate.  
+
+Before that, I was Content Specialist within the Drugs and Biologics team at Clarivate and at Thomson Reuters.
 ## Proficiencies
 ![image](https://user-images.githubusercontent.com/115022601/207317876-0213d693-344c-45dc-a15e-ee73441c8664.png)
 
